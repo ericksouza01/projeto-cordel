@@ -1,6 +1,4 @@
 # projeto-cordel
- Projeto cordel de Milton Duarte
-
  Esse é um projeto de aprendizagem html, homenageando o poeta Milton Duarte com sua poesia Cordel Moderno.
 
  # Ambiente
@@ -11,4 +9,4 @@
  - Clone o meu repositorio: `https://github.com/ericksouzaa/projeto-cordel.git`
  - Entre no diretorio `cd projeto-cordel`
  - Abra com seu editor de texto
- 
+
